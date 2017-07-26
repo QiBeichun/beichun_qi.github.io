@@ -5,5 +5,4 @@ date:   2017-07-26 19:45:31 +0530
 categories: ["test"]
 author: "Hemang Kumar"
 ---
-
 This is a test to figure out how it works.
