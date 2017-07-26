@@ -6,3 +6,4 @@ categories: jekyll update
 ---
 This blog of mine is intended to help you know more about me.
 Here you can scan my CV and read several of my articles.
+Have a great time please:)
