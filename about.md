@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: Science
+title: About
 permalink: /science/
 tagline: -welcome to visit-
-category: "science"
+category: "about"
 ---
