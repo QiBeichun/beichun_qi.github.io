@@ -6,3 +6,6 @@ categories: ["test"]
 author: "Hemang Kumar"
 ---
 This is a test to figure out how it works.
+For more information, visit[baidu][baidu]
+
+[baidu]:http
