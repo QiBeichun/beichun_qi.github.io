@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: About
-permalink: /science/
+permalink: /about/
 tagline: -welcome to visit-
 category: "about"
 ---
