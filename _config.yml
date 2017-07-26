@@ -8,11 +8,11 @@
 # Site settings
 title: Qi Beichun
 email: 13349923297@163.com
-description: Wuhan, China
+description: Student
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: hemang_kumar
-github_username:  hemangsk
+twitter_username: qibeichun
+github_username:  qibeichun
 paginate: 5
 
 gems: [jekyll-paginate, kramdown]
