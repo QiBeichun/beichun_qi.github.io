@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to my blog!"
-date:   2016-03-30 19:45:31 +0530
+date:   2017-07-26 19:45:31 +0530
 categories: jekyll update
 ---
 This blog of mine is intended to help you know more about me.
