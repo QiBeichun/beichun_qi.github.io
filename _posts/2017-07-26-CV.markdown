@@ -6,6 +6,6 @@ categories: CV
 author: "Qi Beichun"
 ---
 
-Click [HERE][here] to see my resume.
+Click [HERE][here] to see my résumé.
 
 [here]: http://qibeichun.github.io/CV
