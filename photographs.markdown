@@ -2,6 +2,6 @@
 layout: archive
 title: photographs
 permalink: /photographs/
-tagline: -welcome to visit-
+tagline: -my life-
 category: "photographs"
 ---
