@@ -7,7 +7,7 @@ author: "Qi Beichun"
 ---
 This is my first self-made blog.
 Well, not entirely.
-I used github pages, which is a very useful function of [gitgub][github], and resources from [jekyll themes][jekyll-themes].
+I used github pages, which is a very useful function of [github][github], and resources from [jekyll themes][jekyll-themes].
 
 [github]: https://github.com/
 [jekyll-themes]: http://jekyllthemes.org/
