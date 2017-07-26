@@ -1,7 +1,7 @@
 ---
-layout: archive
+layout: pages
 title: CV
-permalink: /design/
+permalink: /CV/
 category: "CV"
 tagline: "-my overall information-"
 ---
