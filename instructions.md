@@ -1,7 +1,7 @@
 ---
 layout: page
-title : About
-permalink: /about/
+title : Instructions
+permalink: /instructions/
 ---
 
 <h2>Gravity</h2>
