@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: CV
-permalink: /CV/
-category: "CV"
+title: RESUME
+permalink: /RESUME/
+category: "RESUME"
 tagline: "-my overall information-"
 ---
