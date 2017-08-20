@@ -6,7 +6,6 @@ categories: about
 author: Qi Beichun
 ---
 This blog of mine is intended to help you know more about me.
-Here you can scan my CV and read several of my articles.
-I also post photographs of my personal life.
+Here you can scan my résumé and read several of my publications.
 
 Enjoy yourself please :).
