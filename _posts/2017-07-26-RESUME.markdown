@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "CV"
+title:  "RESUME"
 date:   2017-07-26 19:45:31 +0530
-categories: CV
+categories: RESUME
 author: "Qi Beichun"
 ---
 
 Click [HERE][here] to see my résumé.
 
-[here]: http://qibeichun.github.io/CV
+[here]: http://qibeichun.github.io/RESUME
