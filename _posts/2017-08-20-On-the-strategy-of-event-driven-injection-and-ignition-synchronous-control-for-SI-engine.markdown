@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Conference paper: On the Strategy of Event-Driven Injection and Ignition Synchronous Control for SI Engine"
+title:  "Conference paper: On the Strategy of Event-Driven Injection and Ignition Synchronous Control for SI Engine(January 2017)"
 date:   2017-08-20 19:45:31 +0530
 categories: publication
 author: "Qi Beichun"
