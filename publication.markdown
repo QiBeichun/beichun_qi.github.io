@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: publication
-permalink: /photographs/
-tagline: -major related-
+permalink: /publication/
+tagline: -academic-
 category: "publication"
 ---
