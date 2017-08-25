@@ -10,8 +10,8 @@ Email: 13349923297@163.com
 Tel: +86 13349923297
 
 
-School of Mechanical and Electronic Engineering
+School of Mechanical and Electronic Engineering,
 
-Wuhan University of Technology
+Wuhan University of Technology,
 
 City of Wuhan, Hubei Province, China
