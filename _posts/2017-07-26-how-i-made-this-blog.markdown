@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How I made this blog"
+title:  "How I made this website"
 date:   2017-07-26 19:45:31 +0530
 categories: about
 author: "Qi Beichun"
@@ -10,7 +10,7 @@ I used github pages, which is a very useful function of [github][github], and re
 
 [github]: https://github.com/
 [jekyll-themes]: http://jekyllthemes.org/
-First create a new repository, choose a template from jekyll themes and fork it.  Then all you have to do is editing them in your repository to add details.
+First create a new repository on Github.  Choose a template from jekyll themes and fork it.  Then all you have to do is editing them in your repository to add details.
 
 This barely requires any professional skill, and detailed guidence can be found on [jekyllrb.com][jekyllrb.com].
 
