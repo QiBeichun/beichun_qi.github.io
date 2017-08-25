@@ -11,7 +11,7 @@ Heat transfer analysis, Off-line programming, Thermal barrier coatings
 
 [DOWNLOAD][DOWNLOAD] the Online First Version.
 
-[DOWNLOAD]: /_includes/icon-twitter.svg
+[DOWNLOAD]: /_includes/10.1007_s11666-017-0601-2.pdf
 
 For more information, Click [HERE][here].
 
