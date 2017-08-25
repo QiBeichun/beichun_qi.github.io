@@ -9,7 +9,7 @@ author: "Qi Beichun"
 Keywords:
 Heat transfer analysis, Off-line programming, Thermal barrier coatings
 
-Download [HERE]/includes/icon-twitter.svg .
+[DOWNLOAD]/includes/icon-twitter.svg .
 
 For more information, Click [HERE][here].
 
