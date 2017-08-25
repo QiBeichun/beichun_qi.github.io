@@ -9,4 +9,9 @@ Email: 13349923297@163.com
 
 Tel: +86 13349923297
 
-Department of Mechanics and Electrical Engineering, Wuhan University of Technology, District of Hongshan, City of Wuhan, China
+
+School of Mechanical and Electronic Engineering
+
+Wuhan University of Technology
+
+City of Wuhan, Hubei Province, China
