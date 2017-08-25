@@ -6,4 +6,7 @@ categories: about
 author: "Qi Beichun"
 ---
 Email: 13349923297@163.com
+
 Tel: +86 13349923297
+
+Department of Mechanics and Electrical Engineering, Wuhan University of Technology, District of Hongshan, City of Wuhan, China
