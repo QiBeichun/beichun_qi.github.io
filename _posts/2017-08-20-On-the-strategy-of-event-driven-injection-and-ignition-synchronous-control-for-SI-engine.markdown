@@ -6,7 +6,7 @@ categories: publication
 author: "Qi Beichun"
 ---
 
-[DOWNLOAD][DOWNLOAD](/_includes/On+the+Strategy+of+Event-Driven+Injecti.._47313.pdf)
+[DOWNLOAD](/_includes/On+the+Strategy+of+Event-Driven+Injecti.._47313.pdf)
 
 Keywords:
 Ignition, Synchronization, Camshafts, Petroleum
