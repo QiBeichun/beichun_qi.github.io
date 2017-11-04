@@ -5,9 +5,7 @@ date:  2017-7-26 19:45:41 +530
 categories: about
 author: "Qi Beichun"
 ---
-Email: 13349923297@163.com          747015926@qq.com
-
-    (Feel free to reach me by email.)
+Email: (Feel free to contact me through email) 13349923297@163.com          747015926@qq.com
 
 Tel: +86 13349923297
 
