@@ -7,9 +7,11 @@ author: "Qi Beichun"
 ---
 Email: 13349923297@163.com          747015926@qq.com
 
+(Feel free to reach me by email.)
+
 Tel: +86 13349923297
 
-
+Address:
 2-1-2401, Yuehaiyuan Residential, Jianghan District
 
 Wuhan, Hubei Province 430000, China
