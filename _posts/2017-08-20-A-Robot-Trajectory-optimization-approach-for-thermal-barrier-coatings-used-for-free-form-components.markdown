@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Robot Trajectory Optimization Approach for Thermal Barrier Coatings Used for Free-Form Components(August 2017, online first)"
+title:  "A Robot Trajectory Optimization Approach for Thermal Barrier Coatings Used for Free-Form Components"
 date:   2017-08-20 19:45:31 +0530
 categories: publication
 author: "Qi Beichun"
