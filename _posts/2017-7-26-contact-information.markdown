@@ -10,8 +10,6 @@ Email: 13349923297@163.com          747015926@qq.com
 Tel: +86 13349923297
 
 
-School of Mechanical and Electronic Engineering,
+2-1-2401, Yuehaiyuan Residential, Jianghan District
 
-Wuhan University of Technology,
-
-City of Wuhan, Hubei Province, China
+Wuhan, Hubei Province 430000, China
